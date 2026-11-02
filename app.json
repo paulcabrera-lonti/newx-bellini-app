@@ -1,0 +1,15 @@
+{
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    }
+  },
+  "defaultPage": "home",
+  "name": "newx",
+  "type": "app"
+}
